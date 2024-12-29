@@ -8,6 +8,7 @@
 	<h1 style="color: green; font-size: 40px;" align="center">We are intergrating the tomcat with jenkins and uploading the war file in nexus</h1>
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 	<h1 style="color: grey; font-size: 40px;" align="center">we are done with ci/cd</h1>
+	<h1 style="color: Purple; font-size: 40px;" align="center">jenkins is little tricky yet easy to understand</h1>
 	<h1 style="color: blue; font-size: 40px;" align="center">we integraded nexus also/cd</h1>
 	<h1 style="color: black; font-size: 40px;" align="center">we are done with nexus also</h1>
 	
